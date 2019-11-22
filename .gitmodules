@@ -1,0 +1,3 @@
+[submodule "full_adder"]
+	path = full_adder
+	url = https://github.com/Kantouzin/full-adder.git
